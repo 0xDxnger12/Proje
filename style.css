@@ -1,1 +1,98 @@
+*
+{
+    margin: 0px;
+}
 
+.body1
+{
+    background-color: blueviolet;
+}
+
+.class1
+{
+    background-color: red;
+    border: 4px;
+    border-color: green;
+    border-style: solid;
+    color: blue;
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ul1
+{
+    color: green;
+    background-color: pink;
+}
+
+.ol1
+{
+    color: blue;
+    background-color: cyan;
+}
+
+.ol2
+{
+    color: black;
+    background-color: red;
+}
+
+#submit
+{
+    background-color: blue;
+    border: 3px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.body2
+{
+    background-color: blue;
+}
+
+.resim1
+{
+    border: 3px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 10px;
+    width: 100px; height: 100px;
+}
+
+.resim2
+{
+    border: 3px;
+    border-color: greenyellow;
+    border-style: solid;
+    border-radius: 10px;
+    width: 150px; height: 150px;
+}
+
+.resim3
+{
+    border: 3px;
+    border-color: aqua;
+    border-style: solid;
+    border-radius: 10px;
+    width: 200px; height: 200px;
+}
+
+.resim4
+{
+    border: 3px;
+    border-color: chartreuse;
+    border-style: solid;
+    border-radius: 10px;
+    width: 250px; height: 250px;
+}
+
+#submit2
+{
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    color: red;
+    background-color: black;
+    border-radius: 10px;
+}
